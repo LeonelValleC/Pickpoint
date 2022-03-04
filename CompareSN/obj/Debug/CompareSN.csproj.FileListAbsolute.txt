@@ -1,0 +1,14 @@
+C:\Users\leonel.valle\source\repos\Voyager-SN\CompareSN\bin\Debug\CompareSN.exe.config
+C:\Users\leonel.valle\source\repos\Voyager-SN\CompareSN\bin\Debug\CompareSN.exe.manifest
+C:\Users\leonel.valle\source\repos\Voyager-SN\CompareSN\bin\Debug\CompareSN.application
+C:\Users\leonel.valle\source\repos\Voyager-SN\CompareSN\bin\Debug\CompareSN.exe
+C:\Users\leonel.valle\source\repos\Voyager-SN\CompareSN\bin\Debug\CompareSN.pdb
+C:\Users\leonel.valle\source\repos\Voyager-SN\CompareSN\obj\Debug\CompareSN.csproj.AssemblyReference.cache
+C:\Users\leonel.valle\source\repos\Voyager-SN\CompareSN\obj\Debug\CompareSN.Form1.resources
+C:\Users\leonel.valle\source\repos\Voyager-SN\CompareSN\obj\Debug\CompareSN.Properties.Resources.resources
+C:\Users\leonel.valle\source\repos\Voyager-SN\CompareSN\obj\Debug\CompareSN.csproj.GenerateResource.cache
+C:\Users\leonel.valle\source\repos\Voyager-SN\CompareSN\obj\Debug\CompareSN.csproj.CoreCompileInputs.cache
+C:\Users\leonel.valle\source\repos\Voyager-SN\CompareSN\obj\Debug\CompareSN.exe.manifest
+C:\Users\leonel.valle\source\repos\Voyager-SN\CompareSN\obj\Debug\CompareSN.application
+C:\Users\leonel.valle\source\repos\Voyager-SN\CompareSN\obj\Debug\CompareSN.exe
+C:\Users\leonel.valle\source\repos\Voyager-SN\CompareSN\obj\Debug\CompareSN.pdb
